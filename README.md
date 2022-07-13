@@ -8,4 +8,4 @@ This shows you how to make Matlab code that works with [Octave](https://www.gnu.
 
 The [example notebook](https://mybinder.org/v2/gh/rnm222/binder-octave/master?filepath=index.ipynb) is taken from the [octave_kernel](https://github.com/Calysto/octave_kernel) repository.
 
-Here is another [example notebook](https://mybinder.org/v2/gh/rnm222/binder-octave/master?filepath=OptionEval_MCM_MVGBM.ipynb)
+Here is another [example notebook](https://mybinder.org/v2/gh/rnm222/binder-octave/master?filepath=Ch1_Sect1.ipynb)
